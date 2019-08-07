@@ -6,6 +6,6 @@ This allows you to put 3D texts wherever you want
 
 just put the script in your resource folder 
 
-and type start explicit_3dzones in your CFG
+and type start `explicit_3dzones` in your CFG
 
 please dont reupload it
